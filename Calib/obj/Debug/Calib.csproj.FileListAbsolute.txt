@@ -1,0 +1,8 @@
+C:\Gits\Smart Device C# Touch Calibrate\Calib\Calib\bin\Debug\Calib.exe
+C:\Gits\Smart Device C# Touch Calibrate\Calib\Calib\bin\Debug\Calib.pdb
+C:\Gits\Smart Device C# Touch Calibrate\Calib\Calib\obj\Debug\ResolveAssemblyReference.cache
+C:\Gits\Smart Device C# Touch Calibrate\Calib\Calib\obj\Debug\Calib.Properties.Resources.resources
+C:\Gits\Smart Device C# Touch Calibrate\Calib\Calib\obj\Debug\SmartDeviceProject1.runcalibration.resources
+C:\Gits\Smart Device C# Touch Calibrate\Calib\Calib\obj\Debug\Calib.csproj.GenerateResource.Cache
+C:\Gits\Smart Device C# Touch Calibrate\Calib\Calib\obj\Debug\Calib.exe
+C:\Gits\Smart Device C# Touch Calibrate\Calib\Calib\obj\Debug\Calib.pdb
